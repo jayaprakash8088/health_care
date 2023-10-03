@@ -1,0 +1,3 @@
+class TopdoctorItemModel {
+  String? id = "";
+}
